@@ -1,0 +1,24 @@
+
+.formulario{
+    background-color: aquamarine;
+    height: 100px;
+    width: 200px;
+    flex-direction: column;
+    padding: 30px;
+    margin: 10px; 
+}
+.formulario2{
+    background-color:darkseagreen;
+    height: 100px;
+    width: 200px;
+    flex-direction: column;
+    padding: 30px;
+    margin: 10px;  
+}
+.ocultar{
+    display: none;
+}
+
+.btn-enviar{
+    margin: 3px;
+}
